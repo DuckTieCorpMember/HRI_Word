@@ -1,0 +1,7 @@
+#Fri Apr 13 23:15:58 GMT+06:00 2018
+base.0=C\:\\Users\\Admin\\Desktop\\Games\\Unity\\2D_HRI_Words\\Build\\Andy_Project\\2D_HRI_Words\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_746227dc2496db5be0eac9fbe6938294bc57a058
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Admin\\Desktop\\Games\\Unity\\2D_HRI_Words\\Build\\Andy_Project\\2D_HRI_Words\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_505c63f6d992c449f0a2174790856884c6062d33\\classes.dex
+base.1=C\:\\Users\\Admin\\Desktop\\Games\\Unity\\2D_HRI_Words\\Build\\Andy_Project\\2D_HRI_Words\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_505c63f6d992c449f0a2174790856884c6062d33
+file.0=C\:\\Users\\Admin\\Desktop\\Games\\Unity\\2D_HRI_Words\\Build\\Andy_Project\\2D_HRI_Words\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_746227dc2496db5be0eac9fbe6938294bc57a058\\classes.dex

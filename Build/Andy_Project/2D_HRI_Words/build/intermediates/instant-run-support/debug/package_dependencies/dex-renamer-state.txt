@@ -1,0 +1,4 @@
+#Fri Apr 13 23:15:58 GMT+06:00 2018
+base.0=C\:\\Users\\Admin\\Desktop\\Games\\Unity\\2D_HRI_Words\\Build\\Andy_Project\\2D_HRI_Words\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\unity-classes_ae6b5492e0d97128db3966e20a289c4075e23acd
+renamed.0=classes.dex
+file.0=C\:\\Users\\Admin\\Desktop\\Games\\Unity\\2D_HRI_Words\\Build\\Andy_Project\\2D_HRI_Words\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\unity-classes_ae6b5492e0d97128db3966e20a289c4075e23acd\\classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Desktop\Games\Unity\2D_HRI_Words\Build\Andy_Project\Take2\2D_HRI_Words\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e298e7ad3d24eb5baebf83ef3efb54a10a7dcb33">
+        <dex dex="C:\Users\Admin\Desktop\Games\Unity\2D_HRI_Words\Build\Andy_Project\Take2\2D_HRI_Words\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d25f68e5343c63e404ef729076cfcd0762d7722e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Desktop\Games\Unity\2D_HRI_Words\Build\Andy_Project\Take2\2D_HRI_Words\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eeb3d12a367b7e030481d07007327cbd1c3f020b">
+        <dex dex="C:\Users\Admin\Desktop\Games\Unity\2D_HRI_Words\Build\Andy_Project\Take2\2D_HRI_Words\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_639a02b82124dac07a8e849f177bf7d6b12b74ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Desktop\Games\Unity\2D_HRI_Words\Build\Andy_Project\Take2\2D_HRI_Words\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\Admin\Desktop\Games\Unity\2D_HRI_Words\Build\Andy_Project\Take2\2D_HRI_Words\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7996766c1fb29db8ed136808b75a77682ddda10d\classes.dex" />
+    </item>
+
+</items>
